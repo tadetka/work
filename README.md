@@ -1,2 +1,3 @@
 gitadetka
 =========
+working directory
