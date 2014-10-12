@@ -1,0 +1,3 @@
+gitadetka
+=========
+working directory
